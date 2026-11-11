@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://ais-pre-taj5kkhhnfnvpcrfy3cxpc-148074461133.us-east1.run.app/</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://ais-pre-taj5kkhhnfnvpcrfy3cxpc-148074461133.us-east1.run.app/portrait.jpg</image:loc>
+      <image:title>Raiyan Islam Portfolio</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://ais-pre-taj5kkhhnfnvpcrfy3cxpc-148074461133.us-east1.run.app/#work</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ais-pre-taj5kkhhnfnvpcrfy3cxpc-148074461133.us-east1.run.app/#roadmap</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ais-pre-taj5kkhhnfnvpcrfy3cxpc-148074461133.us-east1.run.app/#about</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ais-pre-taj5kkhhnfnvpcrfy3cxpc-148074461133.us-east1.run.app/#contact</loc>
+    <lastmod>2026-11-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+</urlset>
